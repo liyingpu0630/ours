@@ -4,7 +4,6 @@
 function userLogin(name, pw) {
     console.log("username:"+ name + "\n" +"password: "+ pw);
 }
-
 userLogin("少波","123");
-
+userLogin("少波","123");
 

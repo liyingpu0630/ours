@@ -1,3 +1,5 @@
 this ssb's file
 
 ssb2
+
+测试在webstorm中添加github账号  。

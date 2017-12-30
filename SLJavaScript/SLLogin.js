@@ -6,5 +6,5 @@ function userLogin(name, pw) {
 }
 userLogin("少波","123");
 userLogin("少波","123");
-userLogin("少波66661111","123");
+userLogin("少波666ghjlk;'kjl;61111","123");
 

@@ -6,6 +6,6 @@ function userLogin(name, pw) {
 }
 userLogin("少波","123");
 userLogin("少波","123");
-userLogin("少波888881111","123");
-userLogin("少波66661111","123");
-
+userLogin("少波iuintttyiuiun8888fghjbkml,kjbhb81111","123");
+userLogin("少ytcvhjbklnm,;波66hgjkml6619999111","123");
+//uybubuybubububyubyhubuyub
